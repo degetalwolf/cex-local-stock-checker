@@ -14,7 +14,6 @@
 8717418423513, Cramlington
 8717418385996, Durham
 8717418576288, Washington
-5030917141553, South Shields
 5055277023776, Cramlington
 5055277023776, South Shields
 5055277023776, Washington
@@ -22,9 +21,6 @@
 5055277023776, Newcastle Upon Tyne
 5055277023776, Newcastle Grainger St
 5055277023776, Arnison Durham
-3307216111597, Cramlington
-3307216111597, Washington
-3307216111597, Gateshead Metro Centre
 3307216044475, South Shields
 3307216044475, Newcastle Grainger St
 3307216044475, Gateshead Metro Centre
@@ -44,14 +40,6 @@
 3307215715314, Gateshead Trinity Square
 3307215715314, Durham
 3307215715314, Arnison Durham
-5026555421898, Gateshead Metro Centre
-5026555421898, Durham
-0711719877745, North Shields
-0711719877745, Washington
-0711719877745, Newcastle Upon Tyne
-0711719877745, Newcastle Grainger St
-0711719877745, Gateshead Metro Centre
-0711719877745, Durham
 5026555421058, North Shields
 5026555421058, Washington
 5026555421058, Gateshead Metro Centre
@@ -60,13 +48,6 @@
 5030936122748, Sunderland
 5030936122748, Durham
 5030936122748, Arnison Durham
-5030917214639, North Shields
-5030917214639, Washington
-5030917214639, Sunderland
-5030917214639, Gateshead Trinity Square
-5030917214639, Arnison Durham
-9006113009429, Durham
-4020628844677, Arnison Durham
 5030917185939, Washington
 5030917185939, Sunderland
 5030917185939, Newcastle Upon Tyne
@@ -104,23 +85,10 @@
 5051892145237, Newcastle Grainger St
 5051892145237, Gateshead Trinity Square
 5051892145237, Durham
-5035224123933, Cramlington
-5035224123933, South Shields
-5035224123933, Sunderland
-5035224123933, Arnison Durham
-3391892004212, Newcastle Grainger St
-5030917141553, Gateshead Metro Centre
-3307216111597, South Shields
 5055277023776, Durham
 5050630604029, Cramlington
-5030917141553, Durham
 3307216044475, Arnison Durham
 5030936122748, Cramlington
-5030917214639, Newcastle Grainger St
-0711719877745, Arnison Durham
 5030936122748, South Shields
 5026555421058, Gateshead Trinity Square
 5026555421058, Sunderland
-9006113009429, Gateshead Metro Centre
-9006113008125, Gateshead Metro Centre
-3307216111597, Gateshead Trinity Square
