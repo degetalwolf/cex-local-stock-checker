@@ -28,7 +28,7 @@ jobs:
       - name: Check Stores
         shell: pwsh
         run: |
-          . '.\CEXLocalStoreCheck.ps1' -ItemsToCheckFilePath .\items-to-check.txt -Latitude ${{ secrets.LATITUDE }} -Longitude ${{ secrets.LONGITUDE }} -StoresToCheckFilePath .\stores-to-check.txt -PushoverToken ${{ secrets.PUSHOVER_TOKEN }} -PushoverUser ${{ secrets.PUSHOVER_USER }} 
+          . '.\CEXLocalStoreCheck.ps1' -ItemsToCheckFilePath .\items-to-check.txt -Latitude "53.311729" -Longitude "-1.446861" -StoresToCheckFilePath .\stores-to-check.txt -PushoverToken ${{ secrets.PUSHOVER_TOKEN }} -PushoverUser ${{ secrets.PUSHOVER_USER }} 
       - name: Commit stock change
         run: |
           git config --global user.name 'degetalwolf'
